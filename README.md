@@ -183,4 +183,4 @@ I value keeping my work open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/Cowin-ScrapeL](https://github.com/Abhijith14/Cowin-Scrape). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/Cowin-Scrape](https://github.com/Abhijith14/Cowin-Scrape). Thanks!
