@@ -2,7 +2,7 @@
 <img src="readme_assets/demo.png" width="224px"/><br/>
   Cowin Scrape
 </h1>
-<p align="center">Get the list of all latest vaccine informarion near you from <b>Cowin India Website</b> (https://www.cowin.gov.in/)</p>
+<p align="center">Get the list of all latest vaccine information near you from <b>Cowin India Website</b> (https://www.cowin.gov.in/)</p>
 
 <p align="center">
 <a href="https://github.com/create-go-app/cli/releases" target="_blank">
