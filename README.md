@@ -1,5 +1,4 @@
 <h1 align="center">
-  
   Cowin Scrape
 </h1>
 <p align="center">Get the list of all latest vaccine informarion near you from <b>Cowin India Website</b> (https://www.cowin.gov.in/)</p>
@@ -125,62 +124,3 @@ def init_var():
 ```
 
 That's all you need to do to start! 🎉
-
-<br>
-
-### 🚚 Get the list of all vaccines
-
-If you basically need just the number of vaccines and its details from the website, run [main.py](main.py)
-
-```bash
-python main.py
-```
-
-> 🔔 Please note: You can create your own custom project from [main.py](main.py). Like getting vaccines from age group `18+` or get the details of only `SPUTNIK V` vaccine etc... <br> Such an example program can be found in [noisy_alert.py](noisy_alert.py) where it finds `COVISHIELD` and `SPUTNIK V` vaccines for the age group `18+`.
-
-<br>
-
-### 🚚 Get alert if a vaccine is available
-
-[noisy_alert.py](noisy_alert.py) finds `COVISHIELD` and `SPUTNIK V` vaccines for the age group `18+` and starts playing sound (audio2.mp3) if a vaccine slot was available.
-
-```bash
-python noisy_alert.py
-```
-
-<br>
-
-## ⭐️ Project assistance
-
-If you want to say **thank you** or/and support active development of `Cowin-Scrape`:
-
-- Add a [GitHub Star](https://github.com/Abhijith14/Cowin-Scrape) to the project.
-- Tweet about this project [on your Twitter](https://twitter.com/intent/tweet?text=%E2%9C%A8%20Find%20Your%20Nearest%20Vaccination%20Center%20And%20Slots%20Availability%20using%20Cowin-Scrape.%20A%20Web%20Scraping%20project%20done%20using%20%23Python%20for%20%23Cowin%20%23India.%20%0A%0A%2B%20Faster%20%0A%2B%20User-Customizable%20%0A%2B%20Notification-Support%20%0A%0AJust%20Enter%20your%20State%20and%20District,%20%0ACowin-Scrape%20will%20take%20care%20of%20the%20rest.%0A%0Ahttps%3A%2F%2Fgithub.com%2FAbhijith14%2FCowin-Scrape).
-- Write interesting articles about project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or personal blog.
-
-Together, we can make this project **better** every day! 😘
-
-<br>
-
-### 🛠️ Built With
-
-* [Python 3.8](https://www.python.org/) - Creating Project
-
-
-### ❤️ Authors
-
-* **Abhijith Udayakumar** - *Design & Development* - [Abhijith14](https://github.com/Abhijith14)
-
-<br>
-<br>
-
-## 🚨 Forking this repo (please read!)
-
-_**yes, with attribution**_.
-
-I value keeping my work open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my work without giving me credit. I spent a non-trivial amount of effort building and designing this project, and I am proud of it! All I ask of you all is to not claim this effort as your own.
-
-
-### TL;DR
-
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/Cowin-ScrapeL](https://github.com/Abhijith14/Cowin-Scrape). Thanks!
