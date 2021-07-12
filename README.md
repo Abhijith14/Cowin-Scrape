@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/create-go-app/cli/master/.github/images/cgapp_logo%402x.png" width="224px"/><br/>
   Cowin Scrape
 </h1>
 <p align="center">Get the list of all latest vaccine informarion near you from <b>Cowin India Website</b> (https://www.cowin.gov.in/)</p>
