@@ -5,16 +5,16 @@
 <p align="center">Get the list of all latest vaccine information near you from <b>Cowin India Website</b> (https://www.cowin.gov.in/)</p>
 
 <p align="center">
-<a href="https://github.com/create-go-app/cli/releases" target="_blank">
+<a href="https://github.com/Abhijith14/Cowin-Scrape/" target="_blank">
     <img src="https://img.shields.io/badge/version-v2.1.4-blue?style=for-the-badge&logo=none" alt="cowin_scrape version" />
 </a>&nbsp;
-<a href="https://pkg.go.dev/github.com/create-go-app/cli/v2?tab=doc" target="_blank">
+<a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/PYTHON-3.6+-00ADD8?style=for-the-badge&logo=python" alt="python version" />
 </a>&nbsp;
-<a href="https://gocover.io/github.com/create-go-app/cli/pkg/cgapp" target="_blank">
+<a href="https://github.com/Abhijith14/Cowin-Scrape/" target="_blank">
     <img src="https://img.shields.io/badge/Accuracy-100%25-success?style=for-the-badge&logo=none" alt="accuracy" />
 </a>&nbsp;
-<a href="https://goreportcard.com/report/github.com/create-go-app/cli" target="_blank">
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://img.shields.io/badge/PyCharm-2021.1.3-success?style=for-the-badge&logo=PyCharm" alt="IDE" />
 </a>&nbsp;
 <img src="https://img.shields.io/badge/license-apache_2.0-red?style=for-the-badge&logo=none" alt="license" />
